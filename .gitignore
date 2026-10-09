@@ -1,0 +1,9 @@
+.env
+__pycache__/
+venv/
+data/
+output/
+.DS_Store
+config.local.json
+CLAUDE.md
+.claude/

@@ -1,0 +1,6 @@
+requests>=2.28
+pandas>=1.5
+networkx>=3.0
+plotly>=5.10
+# optional: pdfplumber (full-text via pdf_dir), anthropic (--backend llm)
+scipy>=1.9
